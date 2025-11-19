@@ -3,6 +3,18 @@
 <h1 align="center">Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> 👋</h1>
 <h3 align="center">CSE Student • FULL Stack Developer • Passionate Learner</h3>
 
+
+---
+<p align="center">
+  <img 
+    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/Bannar.jpg"
+    alt="Banner"
+    width="100%"
+    height="400px"
+    style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
+  />
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -10,9 +22,8 @@
 - 🌱 Currently learning **MERN Stack & Clean Architecture**
 - 💻 Love building **full-stack projects** and solving bugs  
 - ⚡ Trying to be better **every day**  
-- 🎯 Goal: Become a **Professional Full-Stack Developer**  
+- 🎯 Goal: Become a **Professional Full-Stack Developer**
 
----
 ---
 
 ## 📫 Connect With Me
