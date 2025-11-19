@@ -17,7 +17,9 @@
 
 ## 📫 Connect With Me
 <p>
-  <a href="https://www.facebook.com/md.abdullah.shamim.913261"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+ <a href="https://www.facebook.com/md.abdullah.shamim.913261">
+  <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" height="40"/>
+</a>
   <a href="https://www.linkedin.com/in/abdullah-shamim-638a84360/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
@@ -54,9 +56,7 @@
 </p>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abdullah-shamim-2004&repo=REPO_NAME&theme=tokyonight)](https://github.com/YOUR_USERNAME/REPO_NAME)
 
----
 ## 🔥 Fun Badges
 <p>
   <img src="https://img.shields.io/badge/Code-Hardwork-blue?style=flat&logo=github" />
@@ -68,4 +68,3 @@
 
 ---
 
-<h3 align="center">✨ “Learning every day. Building something new every week.” ✨</h3>
