@@ -1,13 +1,15 @@
 
 
-<h1 align="center">Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> 👋</h1>
-<h3 align="center">CSE Student • FULL Stack Developer • Passionate Learner</h3>
+<h1 align="center" style="font-weight:700; letter-spacing:1px;">
+  Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> Shamim
+</h1>
+<h3 align="center"> FULL Stack Developer • CSE Student • Passionate Learner</h3>
 
 
 ---
 <p align="center">
   <img 
-    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/Bannar.jpg"
+    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/LinkedIn_Bannar.jpg"
     alt="Banner"
     width="100%"
     height="400px"
@@ -17,65 +19,40 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 CSE student of **Chandpur Polytechnical Institute**
-- 🌱 Currently learning **MERN Stack & Clean Architecture**
-- 💻 Love building **full-stack projects** and solving bugs  
-- ⚡ Trying to be better **every day**  
-- 🎯 Goal: Become a **Professional Full-Stack Developer**
+## ⚙️ About Me
+* 🎓 CSE student of **Chandpur Polytechnical Institute**
+* 🧪 Implementing projects with **MERN Stack & Next.js**
+* 🏗️ Mastering **full-stack architectures** and bug resolution
+* ♾️ Leveling up my skills **constantly**
+* 👑 Goal: Become a **Professional Full-Stack Developer**
 
 ---
-
 ## 📫 Connect With Me
-<p>
- <a href="https://www.facebook.com/md.abdullah.shamim.913261">
-  <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" height="40"/>
-</a>
-  <a href="https://www.linkedin.com/in/abdullah-shamim-638a84360/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-</p>
 
-## 🛠️ Tech Stack & Tools
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,vercel" />
-</p>
+| Platform | Link |
+| :--- | :--- |
+| ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) | [facebook.com/md.abdullah.shamim](https://www.facebook.com/md.abdullah.shamim.913261) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/abdullah-shamim](https://www.linkedin.com/in/abdullah-shamim-638a84360/) |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shamim-2004&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight" height="170px" />
-</p>
+## 🗄️ My Full-Stack Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend/UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🏆 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-shamim-2004&layout=compact&theme=tokyonight" height="150px" />
-</p>
+## 📊 GitHub Overview
+
+| Stats | Streak | Top Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shamim-2004&show_icons=true&hide_title=true&theme=tokyonight" height="120"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight" height="120px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-shamim-2004&layout=compact&hide_title=true&theme=tokyonight" height="120"/> |
 
 ---
 
-## 🔥 Fun Badges
-<p>
-  <img src="https://img.shields.io/badge/Code-Hardwork-blue?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-yellow?style=flat" />
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-red?style=flat" />
-</p>
-
-
----
 
