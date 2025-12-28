@@ -49,10 +49,12 @@
 
 ## 📊 GitHub Overview
 
-| Stats | Streak | Top Languages |
+| GitHub Stats | Streak | Top Languages |
 | :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shamim-2004&show_icons=true&hide_title=true&theme=tokyonight" height="120"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight" height="120px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-shamim-2004&layout=compact&hide_title=true&theme=tokyonight" height="120"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=abdullah-shamim-2004&show_icons=true&theme=tokyonight&cache_seconds=86400" height="120"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight&cache_seconds=86400" height="120"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-shamim-2004&layout=compact&theme=tokyonight&cache_seconds=86400" height="120"/> |
 
+---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&duration=3500&pause=800&color=4F8EF7&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile!;Hope+you+enjoy+exploring+my+work;Let's+build+something+amazing+together)](https://git.io/typing-svg)
 ---
 
 
