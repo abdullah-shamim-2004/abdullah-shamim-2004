@@ -9,7 +9,7 @@
 ---
 <p align="center">
   <img 
-    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/LinkedIn_Bannar.jpg"
+    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/bannerImg.jpg"
     alt="Banner"
     width="100%"
     height="400px"
