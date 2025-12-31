@@ -27,14 +27,6 @@
 * 👑 Goal: Become a **Professional Full-Stack Developer**
 
 ---
-## 📫 Connect With Me
-
-| Platform | Link |
-| :--- | :--- |
-| ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) | [facebook.com/md.abdullah.shamim](https://www.facebook.com/md.abdullah.shamim.913261) |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/abdullah-shamim](https://www.linkedin.com/in/abdullah-shamim-638a84360/) |
-
----
 
 ## 🗄️ My Full-Stack Skills
 
@@ -44,6 +36,14 @@
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+
+---
+## 📫 Connect With Me
+
+| Platform | Link |
+| :--- | :--- |
+| ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) | [facebook.com/md.abdullah.shamim](https://www.facebook.com/md.abdullah.shamim.913261) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/abdullah-shamim](https://www.linkedin.com/in/abdullah-shamim-638a84360/) |
 
 ---
 
