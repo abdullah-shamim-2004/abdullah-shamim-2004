@@ -39,6 +39,12 @@ A modern foodie-inspired platform with dynamic reviews, user submissions, favori
 **[Live](https://local-delish-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/Local-Delish-Client)** | **[Server Code](https://github.com/abdullah-shamim-2004/Local-Delish-Server)** <br>
 **Tech:** React, Node.js, Express, MongoDB, Swiper, Firebase Auth, Tailwind CSS
 
+**3) ProductaX — High-Performance E-Commerce Product Gallery**
+A high-performance full-stack product gallery built with Next.js 14, MongoDB, and TanStack Query, featuring a clean responsive UI and a robust backend API for seamless data fetching. <br>
+**[Live](https://productax.vercel.app/) | [Code](https://github.com/abdullah-shamim-2004/ProductaX)** <br>
+**Tech:** Next.js 14, React, Tailwind CSS, MongoDB Atlas, Mongoose, TanStack Query, Axios
+
+
 ---
 
 ## 🗄️ My Full-Stack Skills
