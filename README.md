@@ -13,7 +13,7 @@
     src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/bannerImg.jpg"
     alt="Banner"
     width="100%"
-    height="400px"
+    height="380px"
     style="object-fit: cover; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
   />
 </p>
@@ -21,11 +21,10 @@
 ---
 
 ## ⚙️ About Me
-* 🎓 CSE student of **Chandpur Polytechnical Institute**
-* 🧪 Implementing projects with **MERN Stack & Next.js**
-* 🏗️ Mastering **full-stack architectures** and bug resolution
-* ♾️ Leveling up my skills **constantly**
-* 👑 Goal: Become a **Professional Full-Stack Developer**
+- 🎓 CSE student at Chandpur Polytechnical Institute
+- 💼 Building production-ready MERN applications with authentication, payments, and dashboards
+- 🌍 Open to remote opportunities (Bangladesh/Global)
+- 🎯 Goal: Join a team as a MERN-Stack Developer in 2026
 
 ---
 
