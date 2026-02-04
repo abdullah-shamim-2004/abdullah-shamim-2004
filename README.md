@@ -29,9 +29,15 @@
 ---
 ## 🚀 Featured Projects
 
-**1) Scholarship Management System:** Full-stack application for streamlined scholarship discovery, secure Stripe payments, and multi-role administrative control. 
+**1)ScholarStream - Scholarship Management System:**
+Full-stack application for streamlined scholarship discovery, secure Stripe payments, and multi-role administrative control. <br>
 **[Live](https://scholar-stream-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/ScholarStream-Client)**   | **[Server Code](https://github.com/abdullah-shamim-2004/ScholarStream-Server)**   
 **Tech:** React, Node.js, Express, MongoDB, Stripe, Firebase Auth, TanStack Query, Tailwind CSS
+
+**2) LocalDelish — Local Food Lovers Network:**
+A modern foodie-inspired platform with dynamic reviews, user submissions, favorites, MongoDB search, Firebase auth, and fully responsive design.<br>
+**[Live](https://local-delish-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/Local-Delish-Client)** | **[Server Code](https://github.com/abdullah-shamim-2004/Local-Delish-Server)** <br>
+**Tech:** React, Node.js, Express, MongoDB, Swiper, Firebase Auth, Tailwind CSS
 
 ---
 
