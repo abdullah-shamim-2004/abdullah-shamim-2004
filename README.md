@@ -3,7 +3,8 @@
 <h1 align="center" style="font-weight:700; letter-spacing:1px;">
   Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> Shamim
 </h1>
-<h3 align="center"> FULL Stack Developer • CSE Student • Passionate Learner</h3>
+<h3 align="center"> MERN Stack Developer | React • Node.js • MongoDB | Open to Remote
+(BD/Global)</h3>
 
 
 ---
