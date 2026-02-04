@@ -27,6 +27,13 @@
 - 🎯 Goal: Join a team as a MERN-Stack Developer in 2026
 
 ---
+## 🚀 Featured Projects
+
+**1) Scholarship Management System:** Full-stack application for streamlined scholarship discovery, secure Stripe payments, and multi-role administrative control. 
+**[Live](https://scholar-stream-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/ScholarStream-Client)**   | **[Server Code](https://github.com/abdullah-shamim-2004/ScholarStream-Server)**   
+**Tech:** React, Node.js, Express, MongoDB, Stripe, Firebase Auth, TanStack Query, Tailwind CSS
+
+---
 
 ## 🗄️ My Full-Stack Skills
 
