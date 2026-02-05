@@ -59,10 +59,20 @@ A high-performance full-stack product gallery built with Next.js 14, MongoDB, an
 ---
 ## 📫 Connect With Me
 
-| Platform | Link |
-| :--- | :--- |
-| ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) | [facebook.com/md.abdullah.shamim](https://www.facebook.com/md.abdullah.shamim.913261) |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | [linkedin.com/in/abdullah-shamim](https://www.linkedin.com/in/abdullah-shamim-638a84360/) |
+<p align="start">
+  <a href="https://abdullah-shamim-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:abdullahshamim884@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdullah-shamim-638a84360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/md.abdullah.shamim.913261" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 ---
 
