@@ -29,20 +29,11 @@
 ---
 ## 🚀 Featured Projects
 
-**1)ScholarStream - Scholarship Management System:**
-Full-stack application for streamlined scholarship discovery, secure Stripe payments, and multi-role administrative control. <br>
-**[Live](https://scholar-stream-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/ScholarStream-Client)**   | **[Server Code](https://github.com/abdullah-shamim-2004/ScholarStream-Server)**   
-**Tech:** React, Node.js, Express, MongoDB, Stripe, Firebase Auth, TanStack Query, Tailwind CSS
-
-**2) LocalDelish — Local Food Lovers Network:**
-A modern foodie-inspired platform with dynamic reviews, user submissions, favorites, MongoDB search, Firebase auth, and fully responsive design.<br>
-**[Live](https://local-delish-client.netlify.app/)** | **[Client Code](https://github.com/abdullah-shamim-2004/Local-Delish-Client)** | **[Server Code](https://github.com/abdullah-shamim-2004/Local-Delish-Server)** <br>
-**Tech:** React, Node.js, Express, MongoDB, Swiper, Firebase Auth, Tailwind CSS
-
-**3) ProductaX — High-Performance E-Commerce Product Gallery**
-A high-performance full-stack product gallery built with Next.js 14, MongoDB, and TanStack Query, featuring a clean responsive UI and a robust backend API for seamless data fetching. <br>
-**[Live](https://productax.vercel.app/) | [Code](https://github.com/abdullah-shamim-2004/ProductaX)** <br>
-**Tech:** Next.js 14, React, Tailwind CSS, MongoDB Atlas, Mongoose, TanStack Query, Axios
+| Project | Description | Links | Tech Stack | Screenshot |
+|:--------|:------------|:------|:-----------|:-----------|
+| **1)ScholarStream**<br>*Scholarship Management* | Full-stack platform for scholarship discovery with secure Stripe payments and multi-role admin control (Student/Moderator/Admin) | [Live](https://scholar-stream-client.netlify.app/) <br/> [Client](https://github.com/abdullah-shamim-2004/ScholarStream-Client) <br/> [Server](https://github.com/abdullah-shamim-2004/ScholarStream-Server) | React, Node.js, Express, MongoDB, Stripe, Firebase Auth, TanStack Query, Tailwind | <img src="./screenshots/scholarstream.png" width="200"/> |
+| **2)LocalDelish**<br>*Food Lovers Network* | Modern foodie platform with dynamic reviews, user submissions, favorites, MongoDB search, and responsive design | [Live](https://local-delish-client.netlify.app/) <br/> [Client](https://github.com/abdullah-shamim-2004/Local-Delish-Client) <br/> [Server](https://github.com/abdullah-shamim-2004/Local-Delish-Server) | React, Node.js, Express, MongoDB, Swiper, Firebase Auth, Tailwind | <img src="./screenshots/localdelish.png" width="200"/> |
+| **3)ProductaX**<br>*E-Commerce Gallery* | High-performance product gallery with Next.js 14, featuring clean responsive UI and robust backend API for seamless data fetching | [Live](https://productax.vercel.app/) <br/> [Code](https://github.com/abdullah-shamim-2004/ProductaX) | Next.js 14, Tailwind CSS, MongoDB Atlas, Mongoose, TanStack Query, Axios | <img src="./screenshots/productax.png" width="200"/> |
 
 
 ---
