@@ -66,12 +66,15 @@
 </p>
 
 ---
-
 ## 📊 GitHub Overview
 
-| GitHub Stats | Streak | Top Languages |
-| :---: | :---: | :---: |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-shamim-2004&theme=github)| <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight&cache_seconds=86400" height="160"/> | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-shamim-2004&theme=github) |
+| GitHub Stats |
+| :---: |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-shamim-2004&theme=github) |
+
+| Streak | Top Languages |
+| :---: | :---: |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-shamim-2004&theme=tokyonight&cache_seconds=86400" height="180"/> | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah-shamim-2004&theme=github) |
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=22&duration=3500&pause=800&color=4F8EF7&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile!;Hope+you+enjoy+exploring+my+work;Let's+build+something+amazing+together)](https://git.io/typing-svg)
