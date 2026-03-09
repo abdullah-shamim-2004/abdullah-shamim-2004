@@ -10,7 +10,7 @@
 ---
 <p align="center">
   <img 
-    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/bannerImg.jpg"
+    src="https://github.com/abdullah-shamim-2004/abdullah-shamim-2004/blob/main/Grey Minimalist Corporate Personal Profile LinkedIn Banner.png"
     alt="Banner"
     width="100%"
     height="380px"
