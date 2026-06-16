@@ -3,7 +3,7 @@
 <h2 align="center" style="font-weight:700; letter-spacing:1px;">
   Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> Shamim
 </h2>
-<h4 align="center"> FULL Stack Developer | Next.js • Node.js • MongoDB | Open to Remote
+<h4 align="center"> FULL Stack Developer | Next.js • Node.js • MongoDB • PostgreSQL | Open to Remote
 (BD/Global)</h4>
 
 
@@ -20,14 +20,14 @@
 
 ---
 
-### ⚙️ About Me
-- 🎓 CSE student at Chandpur Polytechnical Institute
-- 💼 Building production-ready FULL-Stack applications with authentication, payments, and dashboards
-- 🌍 Open to remote opportunities (Bangladesh/Global)
-- 🎯 Goal: Join a team as a FULL-Stack Developer in 2026
+###  About Me
+-  CSE student at Chandpur Polytechnical Institute
+-  Building production-ready FULL-Stack applications with authentication, payments, and dashboards
+-  Open to remote opportunities (Bangladesh/Global)
+-  Goal: Join a team as a FULL-Stack Developer in 2026
 
 ---
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Links | Tech Stack | Screenshot |Lighthouse Scores |
 |:--------|:------------|:------|:-----------|:-----------|:-----------|
@@ -38,7 +38,7 @@
 
 ---
 
-### 🗄️ My Full-Stack Skills
+###  My Full-Stack Skills
 
 | Category | Skills |
 | :--- | :--- |
@@ -48,7 +48,7 @@
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
-### 📫 Connect With Me
+###  Connect With Me
 
 <p align="start">
   <a href="https://abdullah-shamim-portfolio.netlify.app/" target="_blank">
@@ -66,7 +66,7 @@
 </p>
 
 ---
-### 📊 GitHub Overview
+###  GitHub Overview
 
 | GitHub Stats | Streak | Top Languages |
 | :---: | :---: | :---: |
