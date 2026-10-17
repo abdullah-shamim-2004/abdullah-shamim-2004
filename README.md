@@ -3,8 +3,7 @@
 <h2 align="center" style="font-weight:700; letter-spacing:1px;">
   Hi, I'm <span style="color:#4F8EF7;">Abdullah</span> Shamim
 </h2>
-<h4 align="center"> FULL Stack Developer | Next.js • Node.js • MongoDB • PostgreSQL | Open to Remote
-(BD/Global)</h4>
+<h4 align="center"> FULL Stack Developer | Next.js • Node.js • MongoDB • PostgreSQL </h4>
 
 
 ---
@@ -21,10 +20,9 @@
 ---
 
 ###  About Me
--  CSE student at Chandpur Polytechnical Institute
--  Building production-ready FULL-Stack applications with authentication, payments, and dashboards
--  Open to remote opportunities (Bangladesh/Global)
--  Goal: Join a team as a FULL-Stack Developer in 2026
+-  Building production-ready FULL-Stack applications
+-  Open to remote opportunities
+-  Goal: Join a team as a FULL-Stack Developer 
 
 ---
 ### Featured Projects
